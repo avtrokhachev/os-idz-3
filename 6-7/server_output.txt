@@ -1,0 +1,34 @@
+avtrokhachev@for-os-hw:~$ ./server 5050
+Server successfully started working on port 5050
+Successfully got incoming connection
+Successfully read initial message from client
+Successfully added logger id=0
+Successfully got incoming connection
+Successfully read initial message from client
+Successfully added smoker id=0
+Successfully got incoming connection
+Successfully read initial message from client
+Successfully added smoker id=1
+Successfully got incoming connection
+Successfully read initial message from client
+Successfully added smoker id=2
+All smokers connected to the server
+Server generated smoke_item id=1
+Successfully sent messages to all smokers about smoke_item_id=1
+Successfully got message from the smoker id=0
+Successfully got message from the smoker id=1
+Smoker id=1 got component and start smoking
+Server generated smoke_item id=0
+Successfully sent messages to all smokers about smoke_item_id=0
+Successfully got message from the smoker id=0
+Smoker id=0 got component and start smoking
+Server generated smoke_item id=2
+Successfully sent messages to all smokers about smoke_item_id=2
+Successfully got message from the smoker id=0
+Successfully got message from the smoker id=1
+Successfully got message from the smoker id=2
+Smoker id=2 got component and start smoking
+Server generated smoke_item id=1
+Successfully sent messages to all smokers about smoke_item_id=1
+Successfully got message from the smoker id=0
+Successfully got message from the smoker id=1

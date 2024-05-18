@@ -1,0 +1,69 @@
+avtrokhachev@for-os-hw:~$ ./logger 127.0.1.1 5050
+Logger started working
+Logger successfully connected to the server 127.0.1.1:5050
+Logger sent first message to the server
+Logger got message from server: All smokers connected to the server
+Server generated smoke_item id=1
+Successfully sent messages to all smokers about smoke_item_id=1
+Successfully got message from the smoker id=0
+
+Logger got message from server: Successfully got message from the smoker id=1
+
+Logger got message from server: Smoker id=1 got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=0
+Successfully sent messages to all smokers about smoke_item_id=0
+Successfully got message from the smoker id=0
+
+Logger got message from server: Smoker id=0 got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=2
+Successfully sent messages to all smokers about smoke_item_id=2
+
+Logger got message from server: Successfully got message from the smoker id=0
+Successfully got message from the smoker id=1
+Successfully got message from the smoker id=2
+
+Logger got message from server: Smoker id=2 got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=1
+Successfully sent messages to all smokers about smoke_item_id=1
+
+Logger got message from server: Successfully got message from the smoker id=0
+Successfully got message from the smoker id=1
+
+Logger got message from server: Smoker id=1 got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=0
+
+Logger got message from server: Successfully sent messages to all smokers about smoke_item_id=0
+Successfully got message from the smoker id=0
+
+Logger got message from server: Smoker id=0 got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=2
+
+Logger got message from server: Successfully sent messages to all smokers about smoke_item_id=2
+Successfully got message from the smoker id=0
+Successfully got message from the smoker id=1
+Successfully got message from the smoker id=2
+
+Logger got message from server: Smoker id=2 got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=2
+Successfully sent messages to all smokers about smoke_item_id=2
+
+Logger got message from server: Successfully got message from the smoker id=0
+Successfully got message from the smoker id=1
+Successfully got message from the smoker id=2
+
+Logger got message from server: Smoker id=2 got component and start smoking
+
+Logger got message from server: Server generated smoke_item id=2
+
+Logger got message from server: Successfully sent messages to all smokers about smoke_item_id=2
+Successfully got message from the smoker id=0
+Successfully got message from the smoker id=1
+Successfully got message from the smoker id=2
+
+Logger got message from server: Smoker id=2 got component and start smoking

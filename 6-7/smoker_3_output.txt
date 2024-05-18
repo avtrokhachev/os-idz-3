@@ -1,0 +1,37 @@
+avtrokhachev@for-os-hw:~$ sudo ./smoker 127.0.1.1 5050 2
+Smoker id=2 start working!
+Smoker 2 successfully connected to the server 127.0.1.1:5050
+Smoker 2 sent first message to the server
+Smoker id=2 got message from server
+Smoker id=2 got comp id=1 from server
+Smoker id=2 is not suitable for component on the table
+Smoker id=2 got message from server
+Smoker id=2 got comp id=0 from server
+Smoker id=2 is not suitable for component on the table
+Smoker id=2 got message from server
+Smoker id=2 got comp id=2 from server
+Smoker id=2 got the comp from server
+Smoker id=2 start smoking
+Smoker id=2 stop smoking
+Smoker id=2 got message from server
+Smoker id=2 got comp id=1 from server
+Smoker id=2 is not suitable for component on the table
+Smoker id=2 got message from server
+Smoker id=2 got comp id=0 from server
+Smoker id=2 is not suitable for component on the table
+Smoker id=2 got message from server
+Smoker id=2 got comp id=2 from server
+Smoker id=2 got the comp from server
+Smoker id=2 start smoking
+Smoker id=2 stop smoking
+Smoker id=2 got message from server
+Smoker id=2 got comp id=2 from server
+Smoker id=2 got the comp from server
+Smoker id=2 start smoking
+Smoker id=2 stop smoking
+Smoker id=2 got message from server
+Smoker id=2 got comp id=2 from server
+Smoker id=2 got the comp from server
+Smoker id=2 start smoking
+Smoker id=2 stop smoking
+Smoker id=2 got message from server
